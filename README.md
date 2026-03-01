@@ -8,7 +8,10 @@
 <h3>Status do Projeto: 🟢 Ativo / Em Desenvolvimento</h3>
 <h3>Site Oficial: Acesse aqui</h3>
 <hr>
+<h2>Foto do site<h2>
 <h2>📋 Funcionalidades</h2>
+  <img width="3584" height="1702" alt="image" src="https://github.com/user-attachments/assets/e6e58450-0305-4fb6-a503-7f726eacb9ed" />
+
 <ul>
   <li>Cardápio Interativo: Filtros por categorias (Clássicos, Artesanais, Bebidas).</li>
   <li>Carrinho de Compras: Adição e remoção de itens com cálculo automático.</li>
@@ -27,7 +30,7 @@
 <h2>📦 Como Rodar Localmente</h2>
 <h3>1-Clone este repositório:</h3>
 <h4>bash</h4>
-git clone https://github.com
+git clone [https://github.com](https://fernandoaleixo15.github.io/projeto-Burger/)
 <br>
 <h2>📍 Localização e Contato</h2>
 <ul>
